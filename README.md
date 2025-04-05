@@ -1,5 +1,4 @@
-1. clone rep:
-git clone https://github.com/volobuiev/imager.git
+git clone https://github.com/volobuiev/c-s-extractor.git \n
+pip install -r requirements.txt \n
 
-2. install requirements: 
-pip install -r requirements.txt
+load images to "input" and then start program by "python main.py"
